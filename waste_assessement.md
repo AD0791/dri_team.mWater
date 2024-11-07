@@ -99,3 +99,4 @@ The survey gathers detailed information across several key areas of waste manage
 - **Individual Section Totals**: Used to identify specific areas requiring improvement.
 
 This scoring approach provides a clear, quantifiable view of waste management compliance, allowing facilities to target areas needing improvement.
+
